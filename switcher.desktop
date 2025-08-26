@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=Audio Switcher
+Comment=Toggle between two audio outputs
+Exec=/usr/local/bin/Switcher
+Icon=audio-card
+Terminal=false
+Type=Application
+Categories=Utility;AudioVideo;
